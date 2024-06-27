@@ -1,6 +1,6 @@
 # CSS from https://nat.org/
 
-I use it for all of my projects, so might as well make it a file. Here's a starter page:
+I use it for [all](https://recurse.greg.technology/) of my [projects](https://sonicgarbage.greg.technology/), so might as well make it a file. Here's a starter page:
 
 ```html
 <html>
